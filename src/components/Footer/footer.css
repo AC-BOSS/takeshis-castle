@@ -1,0 +1,17 @@
+footer {
+    background-color: rgb(255,153,102);
+    text-align: center;
+}
+a>.icon {
+    font-size: 3em;
+    margin: 3px;
+}
+#linkedIn {
+    color: blue;
+}
+#github, #email {
+    color: black;
+}
+#contribute {
+    font-size: 0.75em;
+}

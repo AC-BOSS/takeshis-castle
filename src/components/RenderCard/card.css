@@ -1,0 +1,33 @@
+.card-img-top {
+    height: 250px;
+}
+.card-img {
+    position: relative;
+}
+.play-btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: hidden;
+    color: white;
+    
+}
+.card-img:hover > .play-btn {
+    visibility: visible;
+}
+.card-img:hover {
+    opacity: 0.8;
+    background-color: black;
+    cursor: pointer;
+}
+.card-body {
+    text-align: justify;
+    background-color: rgb(255,153,102);
+}
+.card-title {
+    color: #468847;
+}
+.modal-content {
+    width: 600px!important;
+}
