@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/takeshis-castle/static/css/main.7c823332.chunk.css",
+    "main.js": "/takeshis-castle/static/js/main.1c5e1a80.chunk.js",
+    "main.js.map": "/takeshis-castle/static/js/main.1c5e1a80.chunk.js.map",
+    "runtime-main.js": "/takeshis-castle/static/js/runtime-main.937aba92.js",
+    "runtime-main.js.map": "/takeshis-castle/static/js/runtime-main.937aba92.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/takeshis-castle/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.50f14c5b.chunk.js": "/takeshis-castle/static/js/2.50f14c5b.chunk.js",
+    "static/js/2.50f14c5b.chunk.js.map": "/takeshis-castle/static/js/2.50f14c5b.chunk.js.map",
+    "index.html": "/takeshis-castle/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/takeshis-castle/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.7c823332.chunk.css.map": "/takeshis-castle/static/css/main.7c823332.chunk.css.map",
+    "static/js/2.50f14c5b.chunk.js.LICENSE.txt": "/takeshis-castle/static/js/2.50f14c5b.chunk.js.LICENSE.txt",
+    "static/media/BridgeBall.8956fe92.png": "/takeshis-castle/static/media/BridgeBall.8956fe92.png",
+    "static/media/ChanguMangu.51b0d2f8.jpg": "/takeshis-castle/static/media/ChanguMangu.51b0d2f8.jpg",
+    "static/media/ChoosLee.31e23fc7.jpeg": "/takeshis-castle/static/media/ChoosLee.31e23fc7.jpeg",
+    "static/media/GameMap.f591f6f7.jpg": "/takeshis-castle/static/media/GameMap.f591f6f7.jpg",
+    "static/media/GeneralLee.300547b2.jpeg": "/takeshis-castle/static/media/GeneralLee.300547b2.jpeg",
+    "static/media/HoneycombMaze.fbb62b9e.jpg": "/takeshis-castle/static/media/HoneycombMaze.fbb62b9e.jpg",
+    "static/media/Ramu.90766f1f.jpeg": "/takeshis-castle/static/media/Ramu.90766f1f.jpeg",
+    "static/media/Shino.3b183342.jpeg": "/takeshis-castle/static/media/Shino.3b183342.jpeg",
+    "static/media/SumoDoll.b5831555.jpeg": "/takeshis-castle/static/media/SumoDoll.b5831555.jpeg",
+    "static/media/SumoRings.eea49688.jpg": "/takeshis-castle/static/media/SumoRings.eea49688.jpg",
+    "static/media/Takeshi.17abe781.jpeg": "/takeshis-castle/static/media/Takeshi.17abe781.jpeg",
+    "static/media/header.css": "/takeshis-castle/static/media/castle.1be1573b.png",
+    "static/media/logo.ab027b85.png": "/takeshis-castle/static/media/logo.ab027b85.png",
+    "static/media/riceBowlDownHill.cb9bb383.png": "/takeshis-castle/static/media/riceBowlDownHill.cb9bb383.png",
+    "static/media/shamu.fecddc4f.jpeg": "/takeshis-castle/static/media/shamu.fecddc4f.jpeg",
+    "static/media/skittles.a253da32.jpg": "/takeshis-castle/static/media/skittles.a253da32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.937aba92.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.50f14c5b.chunk.js",
+    "static/css/main.7c823332.chunk.css",
+    "static/js/main.1c5e1a80.chunk.js"
+  ]
+}
