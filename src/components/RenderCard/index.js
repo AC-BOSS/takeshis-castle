@@ -17,7 +17,7 @@ export default function RenderCard(props) {
             <Card className="h-100" id={props.id || props.title}>
                 <div className={img_class} onClick={handleShow}>
                     {props.video && <PlayCircleFilledIcon fontSize="large" className="play-btn" />}
-                    <Card.Img variant='top' src={props.image} />
+                    <Card.Img variant='top' src={props.image} loading="lazy"/>
                 </div>
                 <Card.Body>
                     <Card.Title className="text-center">{props.title}</Card.Title>
