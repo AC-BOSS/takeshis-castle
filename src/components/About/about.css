@@ -3,5 +3,8 @@
     border-radius: 5px;
 }
 h1, h2 {
-    color: #468847
+    color: #326632
+}
+.about-container img{
+    max-width: 100%;
 }
