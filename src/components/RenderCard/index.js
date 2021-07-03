@@ -33,7 +33,9 @@ export default function RenderCard(props) {
                     <Modal.Title>Clips</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                <iframe width="560" height="315" src={props.video} title={props.title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div className="iframe-container">
+                        <iframe className="resp-iframe" src={props.video} title={props.title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                 </Modal.Body>
             </Modal>
         }
